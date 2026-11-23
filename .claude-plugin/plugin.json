@@ -1,0 +1,10 @@
+{
+  "name": "mujoco-studio",
+  "version": "0.1.0",
+  "description": "Create a MuJoCo robot simulation from a prompt and watch it in a live, hot-reloading 3D viewer. An unofficial adapter that lets Claude Code use Google DeepMind's open-source robotics skills and MuJoCo Studio.",
+  "author": { "name": "Alexandros Nicolaou" },
+  "homepage": "https://github.com/alexandrosnic/mujoco-studio-claude",
+  "repository": "https://github.com/alexandrosnic/mujoco-studio-claude",
+  "license": "Apache-2.0",
+  "keywords": ["mujoco", "robotics", "simulation", "viewer"]
+}

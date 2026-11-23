@@ -1,0 +1,5 @@
+__pycache__/
+MUJOCO_LOG.TXT
+frame.png
+# Robot models are fetched from MuJoCo Menagerie, not committed.
+examples/*/assets/

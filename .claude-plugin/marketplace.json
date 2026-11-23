@@ -1,0 +1,11 @@
+{
+  "name": "mujoco-studio-claude",
+  "owner": { "name": "Alexandros Nicolaou" },
+  "plugins": [
+    {
+      "name": "mujoco-studio",
+      "source": "./",
+      "description": "Create a MuJoCo robot simulation from a prompt and watch it in a live, hot-reloading 3D viewer."
+    }
+  ]
+}
